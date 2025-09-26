@@ -32,11 +32,11 @@ This is a sample of a good README.md that can be used when describing a project.
   Explain here how you would run the program and what files need to be available.
 
 Hello_World/
-└── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
+└──   
+    │── README.md  
+    │── pgmname1.R  
+    │── filename1.csv  
+    │── examples.html  
    
 
 
